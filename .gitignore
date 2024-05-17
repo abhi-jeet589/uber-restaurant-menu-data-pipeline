@@ -1,0 +1,9 @@
+__pycache__/
+uber_de_venv/
+uber_restaurant_data_pipeline/
+logs/
+
+*.json
+*.zip
+
+Others/
